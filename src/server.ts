@@ -1,20 +1,13 @@
+import "reflect-metadata";
 import express from 'express';
+import "./database"
+import { api } from "./routes";
 
 const port = 3333;
 const app = express();
 
-
-app.get("/", (require, res) =>{
-
-    return res.json({message: "Hello Word NLW #04"});
-});
-
-
-app.post("/", (require, res) =>{
-
-    return res.json({message: "Dados salvo com sucesso!!"});
-});
-
+app.use(express.json());
+app.use(api);
 
 //Criando o servidor usando o liste e passando a porta exclusiva
 app.listen(port, () => console.log("Serve is rounning"));

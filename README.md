@@ -5,6 +5,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="20" src="https://pbs.twimg.com/profile_images/1091817101738864640/eQpWLr2c_400x400.jpg"></code>
+<code><img height="20" src="https://avatars3.githubusercontent.com/u/53234021?s=400&v=4"></code>
 
 <div align="center">
     <img alt="NPS" title="NPS" height="20" src="https://blog.kmaleon.com.br/conteudo/wp-content/uploads/2019/12/nps.fw_.png" />
@@ -19,23 +20,34 @@ Este projeto está sendo desenvolvido no evento Next Level Week # 04 pela [Rocke
 
 O API NPS (Net Promoter Score), é uma api que contém avaliação de satisfação dos alunos que participarão NextLevelWeek 4.
 
+---
 
-### Atividades finalizadas
-##### 1º dia
+
+## 📚 Atividades finalizadas
+#### 1º dia
 - [x] Instalações das depedencias
     - "express": "^4.17.1"
     - "@types/express": "^4.17.11",
     - "ts-node-dev": "^1.1.1",
     - "typescript": "^4.1.5"
 - [x] Configuração incial do server
-- [x] Visaulização de teste das api GET e POST no insomnia
-
+- [x] Visaulização de teste das api GET e POST no 
+#### 2º dia
+- [x] Criação / conexão com o banco de dados Sqlite
+- [x] Configurações das migrations e seus diretorios
+- [x] Criação da migration users
+- [x] Criação da api de reate user
 
 
 ## ✨ Resumo do 1º dia da NLW
 
 No primeiro dia vamos aprender os conceitos básicos sobre o que é uma API, entender o que é o NodeJS, onde ele tem sido utilizado e qual problema ele veio solucionar e também. Vamos também conhecer o Typescript e entender como ele irá nos ajudar durante o desenvolvimento da nossa aplicação. Já nessa aula vamos dar início ao desenvolvimento da nossa API, colocando em prática alguns dos conceitos aprendidos.
 
+## ✨ Resumo do 2º dia da NLW
+
+No segundo dia vamos iniciar a configuração do banco de dados na nossa aplicação, aprendendo algumas formas possíveis para realizar o acesso do banco de dados através do Nodejs. Vamos entender os conceitos de migrations, models e criar nossa primeira tabela de usuário. Também nessa aula iremos aprender e criar nosso primeiro Controller, isolando toda regra para dentro dele.
+
+---
 
 ## 📣 O que é Next Level Week?
 
@@ -49,6 +61,9 @@ A Rocketseat tem a consciência que a prática é a melhor aula, então sempre n
 <li><strong>Grupo: </strong> A comunidade de devs é uma das melhores comunidades que existem! Trabalhar em grupo é essencial, já perdi a conta de quantas vezes ajudei e fui ajudado com erros de programação.</li>
 <li><strong>Prática: </strong> E claro, não podia faltar! Quando vemos uma aula, nós podemos entender os conceitos, mas só na prática que aprendemos realmente como faze-los! </li>
 
+<div align="center">
+<img  src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b24bb94-c9ea-4984-a8cb-300ce4553abb%2Fnlw4-banner-github.png?table=block&id=d50c626b-7d28-4bfc-b9f0-ea2b42347e3e&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=5120&userId=aaa75990-d584-4b7e-a045-99eb29503a22&cache=v2">
+</div>
 
 ---
 Feito por 💜&nbsp; Anderson Alves 👋 &nbsp;[linkedin](https://www.linkedin.com/in/anderson-alves-7b5587133/)
