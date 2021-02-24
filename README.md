@@ -42,7 +42,7 @@ O API NPS (Net Promoter Score), é uma api que contém avaliação de satisfaç�
 - [x] Criação do respositorio para se comunicar com o controllers (users && surveys)
 - [x] Criação da migration surveys
 - [x] Criação da api de get/post surveys
-- [x] Criação do teste aotomatizado com jest
+- [x] Criação do teste automatizados com jest
 
 ## ✨ Resumo do 1º dia da NLW
 
