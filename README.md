@@ -36,8 +36,13 @@ O API NPS (Net Promoter Score), é uma api que contém avaliação de satisfaç�
 - [x] Criação / conexão com o banco de dados Sqlite
 - [x] Configurações das migrations e seus diretorios
 - [x] Criação da migration users
-- [x] Criação da api de reate user
-
+- [x] Criação da api de post user
+#### 3º dia
+- [x] Otimização dos códigos
+- [x] Criação do respositorio para se comunicar com o controllers (users && surveys)
+- [x] Criação da migration surveys
+- [x] Criação da api de get/post surveys
+- [x] Criação do teste aotomatizado com jest
 
 ## ✨ Resumo do 1º dia da NLW
 
@@ -46,6 +51,11 @@ No primeiro dia vamos aprender os conceitos básicos sobre o que é uma API, ent
 ## ✨ Resumo do 2º dia da NLW
 
 No segundo dia vamos iniciar a configuração do banco de dados na nossa aplicação, aprendendo algumas formas possíveis para realizar o acesso do banco de dados através do Nodejs. Vamos entender os conceitos de migrations, models e criar nossa primeira tabela de usuário. Também nessa aula iremos aprender e criar nosso primeiro Controller, isolando toda regra para dentro dele.
+
+## ✨ Resumo do 3º dia da NLW
+
+Testando a nossa aplicação
+No terceiro dia vamos conhecer o conceito de Repository e como podemos utilizar ele para separar as responsabilidades nos componentes corretos. Vamos também dar inícios aos testes automatizados e entender os benefícios que eles trazem para a nossa aplicação.
 
 ---
 
