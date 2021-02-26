@@ -22,7 +22,7 @@ O API NPS (Net Promoter Score), é uma api que contém avaliação de satisfaç�
 
 ---
 
-## 📚 Atividades finalizadas
+## 📚 Atividades realizadas
 #### 1º dia
 - [x] Instalações das depedencias
     - "express": "^4.17.1"
@@ -46,6 +46,10 @@ O API NPS (Net Promoter Score), é uma api que contém avaliação de satisfaç�
 - [x] Criação da migration surveysUsers
 - [x] Criação do serviço de email com nodemailer
 - [x] Envio de email com handlebars
+#### 5º dia
+- [x] Calculo de NPS
+- [x] Validações de dados  
+- [x] Tratativa de erros
 
 ## ✨ Resumo do 1º dia da NLW
 No primeiro dia vamos aprender os conceitos básicos sobre o que é uma API, entender o que é o NodeJS, onde ele tem sido utilizado e qual problema ele veio solucionar e também. Vamos também conhecer o Typescript e entender como ele irá nos ajudar durante o desenvolvimento da nossa aplicação. Já nessa aula vamos dar início ao desenvolvimento da nossa API, colocando em prática alguns dos conceitos aprendidos.
@@ -57,9 +61,11 @@ No segundo dia vamos iniciar a configuração do banco de dados na nossa aplica�
 Testando a nossa aplicação
 No terceiro dia vamos conhecer o conceito de Repository e como podemos utilizar ele para separar as responsabilidades nos componentes corretos. Vamos também dar inícios aos testes automatizados e entender os benefícios que eles trazem para a nossa aplicação.
 
-## ✨ Resumo do 3º dia da NLW
+## ✨ Resumo do 4º dia da NLW
 No quarto dia vamos aprender como enviar e-mail, utilizando templates customizados com informações vindas do banco de dados. Vamos aprender também como utilizar variáveis de ambiente dentro da aplicação
 
+## ✨ Resumo do 5º dia da NLW
+Nessa última aula vamos finalizar o fluxo da nossa aplicação, inserir validações dos dados recebidos e aprender como tratar os possíveis erros.
 ---
 
 ## 📣 O que é Next Level Week?
