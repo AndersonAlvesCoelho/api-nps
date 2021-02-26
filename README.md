@@ -13,9 +13,8 @@
 <img height="300"  src="https://www.agenciasole.com.br/blog/wp-content/uploads/2018/01/65.png">
 </div>
 
+## 💡 Sobre o Projeto
 
-
-## 💡 Sobre o Projeto 
 Este projeto está sendo desenvolvido no evento Next Level Week # 04 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
 
 O API NPS (Net Promoter Score), é uma api que contém avaliação de satisfação dos alunos que participarão NextLevelWeek 4.
@@ -23,49 +22,70 @@ O API NPS (Net Promoter Score), é uma api que contém avaliação de satisfaç�
 ---
 
 ## 📚 Atividades realizadas
+
 #### 1º dia
 - [x] Instalações das depedencias
-    - "express": "^4.17.1"
-    - "@types/express": "^4.17.11",
-    - "ts-node-dev": "^1.1.1",
-    - "typescript": "^4.1.5"
+  - "express": "^4.17.1"
+  - "@types/express": "^4.17.11",
+  - "ts-node-dev": "^1.1.1",
+  - "typescript": "^4.1.5"
 - [x] Configuração incial do server
-- [x] Visaulização de teste das api GET e POST no 
+- [x] Visaulização de teste das api GET e POST no
+
 #### 2º dia
+
 - [x] Criação / conexão com o banco de dados Sqlite
 - [x] Configurações das migrations e seus diretorios
 - [x] Criação da migration users
 - [x] Criação da api de post user
+
 #### 3º dia
+
 - [x] Otimização dos códigos
 - [x] Criação do respositorio para se comunicar com o controllers (users && surveys)
 - [x] Criação da migration surveys
 - [x] Criação da api de get/post surveys
 - [x] Criação do teste automatizados com jest
+
 #### 4º dia
+
 - [x] Criação da migration surveysUsers
 - [x] Criação do serviço de email com nodemailer
 - [x] Envio de email com handlebars
+
 #### 5º dia
+
 - [x] Calculo de NPS
-- [x] Validações de dados  
+- [x] Validações de dados
 - [x] Tratativa de erros
 
-## ✨ Resumo do 1º dia da NLW
-No primeiro dia vamos aprender os conceitos básicos sobre o que é uma API, entender o que é o NodeJS, onde ele tem sido utilizado e qual problema ele veio solucionar e também. Vamos também conhecer o Typescript e entender como ele irá nos ajudar durante o desenvolvimento da nossa aplicação. Já nessa aula vamos dar início ao desenvolvimento da nossa API, colocando em prática alguns dos conceitos aprendidos.
+## Resumos da semanas
 
-## ✨ Resumo do 2º dia da NLW
+<details>
+  <summary>✨ 1º dia da NLW</summary>
+  No primeiro dia vamos aprender os conceitos básicos sobre o que é uma API, entender o que é o NodeJS, onde ele tem sido utilizado e qual problema ele veio solucionar e também. Vamos também conhecer o Typescript e entender como ele irá nos ajudar durante o desenvolvimento da nossa aplicação. Já nessa aula vamos dar início ao desenvolvimento da nossa API, colocando em prática alguns dos conceitos aprendidos.
+</details>
+
+<details>
+  <summary>✨ 2º dia da NLW</summary>
 No segundo dia vamos iniciar a configuração do banco de dados na nossa aplicação, aprendendo algumas formas possíveis para realizar o acesso do banco de dados através do Nodejs. Vamos entender os conceitos de migrations, models e criar nossa primeira tabela de usuário. Também nessa aula iremos aprender e criar nosso primeiro Controller, isolando toda regra para dentro dele.
+</details>
 
-## ✨ Resumo do 3º dia da NLW
+<details>
+  <summary>✨ 3º dia da NLW</summary>
 Testando a nossa aplicação
 No terceiro dia vamos conhecer o conceito de Repository e como podemos utilizar ele para separar as responsabilidades nos componentes corretos. Vamos também dar inícios aos testes automatizados e entender os benefícios que eles trazem para a nossa aplicação.
+</details>
 
-## ✨ Resumo do 4º dia da NLW
+<details>
+  <summary>✨ 4º dia da NLW</summary>
 No quarto dia vamos aprender como enviar e-mail, utilizando templates customizados com informações vindas do banco de dados. Vamos aprender também como utilizar variáveis de ambiente dentro da aplicação
+</details>
 
-## ✨ Resumo do 5º dia da NLW
+<details>
+  <summary>✨ 5º dia da NLW</summary>
 Nessa última aula vamos finalizar o fluxo da nossa aplicação, inserir validações dos dados recebidos e aprender como tratar os possíveis erros.
+</details>
 
 ---
 
@@ -86,5 +106,5 @@ A Rocketseat tem a consciência que a prática é a melhor aula, então sempre n
 </div>
 
 ---
-Feito por 💜&nbsp; Anderson Alves 👋 &nbsp;[linkedin](https://www.linkedin.com/in/anderson-alves-7b5587133/)
 
+Feito por 💜&nbsp; Anderson Alves 👋 &nbsp;[linkedin](https://www.linkedin.com/in/anderson-alves-7b5587133/)
