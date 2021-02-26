@@ -66,6 +66,7 @@ No quarto dia vamos aprender como enviar e-mail, utilizando templates customizad
 
 ## ✨ Resumo do 5º dia da NLW
 Nessa última aula vamos finalizar o fluxo da nossa aplicação, inserir validações dos dados recebidos e aprender como tratar os possíveis erros.
+
 ---
 
 ## 📣 O que é Next Level Week?
