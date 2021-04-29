@@ -15,7 +15,7 @@
 
 ## 💡 Sobre o Projeto
 
-Este projeto está sendo desenvolvido no evento Next Level Week # 04 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
+Este projeto está foi desenvolvido no evento Next Level Week # 04 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
 
 O API NPS (Net Promoter Score), é uma api que contém avaliação de satisfação dos alunos que participarão NextLevelWeek 4.
 
